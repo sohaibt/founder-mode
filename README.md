@@ -2,7 +2,7 @@
 
 **Turn Brian Chesky's founder mode philosophy into an AI-powered operating system.**
 
-A Claude Code plugin that extends your AI assistant from coding tool to AI co-founder. Four slash commands that encode the operating system behind Airbnb's pandemic-era transformation — grounded in 6 primary sources from Chesky, Paul Graham, and YC.
+A Claude Code plugin that extends your AI assistant from coding tool to AI co-founder. 12 slash commands that encode the operating system behind Airbnb's pandemic-era transformation — grounded in 6 primary sources from Chesky, Paul Graham, and YC.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-orange)](https://claude.ai/code)
